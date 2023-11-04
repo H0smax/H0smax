@@ -1,7 +1,7 @@
 ### Hi!
 ![img](https://media2.giphy.com/media/SLBr5yLzocSYw/giphy.gif?cid=ecf05e4740jzel445dyfccb20spyijh53gwg6ps40hwzh8j5&rid=giphy.gif&ct=g)
 
-I'm Salvador (a.k.a. Hosmax), an electronic engineer from Canary Islands. I'll also become IT engineer in the future.
+I'm Salvador (a.k.a. Hosmax), an electronic engineer from Canary Islands. I'll also become Computer Science engineer in the future.
 I love all related to tech and programming. I also work with retro videoconsoles and a lot of hardware :)
 
 My tools:
