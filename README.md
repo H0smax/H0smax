@@ -7,7 +7,8 @@ I love all related to tech and programming. I also work with retro videoconsoles
 My tools:
 
 <img height="30" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-<img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/KiCad-Logo.svg/1280px-KiCad-Logo.svg.png">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/KiCad-Logo.svg/1280px-KiCad-Logo.svg.png" alt="KiCAD" width="100"/>
 
 
 My languages:
